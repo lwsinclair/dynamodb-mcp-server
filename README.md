@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/imankamyabi-dynamodb-mcp-server-badge.png)](https://mseep.ai/app/imankamyabi-dynamodb-mcp-server)
+
 # DynamoDB MCP Server
 
 A [Model Context Protocol server](https://modelcontextprotocol.io/) for managing Amazon DynamoDB resources. This server provides tools for table management, capacity management, and data operations.
